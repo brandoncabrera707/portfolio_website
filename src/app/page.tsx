@@ -8,10 +8,10 @@ export default function Home() {
         <div className="flex flex-row">
           
           <div className=" flex flex-col text-5xl font-bold ">Brandon Cabrera
-            <div className="text-3xl font-light py-1.5">
-              <p>Mt. San Antonio College Student | Transfer Student</p>
-              <p>Planning to transfer to a 4-year university to obtain a Bachelor's Degree in Computer Science </p>
-              <p>Aspiring Software Engineer / Machine Learning Engineer</p>
+            <div className="text-3xl font-light py-6">
+              <p className='py-2'>Mt. San Antonio College Student | Transfer Student</p>
+              <p className='py-2'>Planning to transfer to a 4-year university to obtain a Bachelor's Degree in Computer Science </p>
+              <p className='pt-2'>Aspiring Software Engineer/Machine Learning Engineer</p>
             </div>
             <a href='/resume.pdf' className="text-2xl font-bold">View Resume>></a>
           </div>
