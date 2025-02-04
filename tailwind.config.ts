@@ -9,8 +9,10 @@ export default {
   theme: {
     extend: {
       colors: {
+        navbarbackground: "#181818",
         background: "var(--background)",
         foreground: "var(--foreground)",
+        logoBlue: "#39d5ff",
       },
     },
   },
