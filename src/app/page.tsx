@@ -34,7 +34,7 @@ export default function Home() {
             Hi, my name is Brandon! Thank you for visiting my website.
             I am currently a student at Mt. San Antonio College, planning to transfer to a four-year 
             university to pursue a degree in Computer Science. 
-            My goal is to obtain a Master's Degree in Machine Learning or Artificial Intelligence.
+            My goal is to obtain a Master&apos;s Degree in Machine Learning or Artificial Intelligence.
             </div>
 
             <div className='text-3xl font-light py-4'>
