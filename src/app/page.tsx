@@ -13,7 +13,7 @@ export default function Home() {
               <p className='py-2'>Planning to transfer to a 4-year university to obtain a Bachelor's Degree in Computer Science </p>
               <p className='pt-2'>Aspiring Software Engineer/Machine Learning Engineer</p>
             </div>
-            <a href='/resume.pdf' className="text-2xl font-bold">View Resume{'>>'} </a>
+            <a href='/resume.pdf' target='_blank' className="text-2xl font-bold">View Resume{'>>'} </a>
 
           
           </div>
